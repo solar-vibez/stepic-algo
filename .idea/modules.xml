@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/part-I-methods/part-I-methods.iml" filepath="$PROJECT_DIR$/part-I-methods/part-I-methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stepic-algo.iml" filepath="$PROJECT_DIR$/stepic-algo.iml" />
+    </modules>
+  </component>
+</project>
